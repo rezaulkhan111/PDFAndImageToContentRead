@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToContentRead", "ImageToContentRead\ImageToContentRead.csproj", "{6E698B37-81D6-4303-B557-5BEC609141DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E698B37-81D6-4303-B557-5BEC609141DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E698B37-81D6-4303-B557-5BEC609141DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E698B37-81D6-4303-B557-5BEC609141DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E698B37-81D6-4303-B557-5BEC609141DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E3246F-3242-4CCD-A175-C11BDBB18B48}
+	EndGlobalSection
+EndGlobal
